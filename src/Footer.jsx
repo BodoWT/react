@@ -7,7 +7,7 @@ const Footer = () => {
 			<div className="text-center pb-1">
 				<div className="text-uppercase lien m-0">
 					<a href="">
-					<p className="d-inline px-3">newsletter</p></a> <a href="contact.html">
+					<p className="d-inline px-3">newsletter</p></a> <a href="">
 					<p className="d-inline px-3">contact</p></a> <a href="">
 					<p className="d-inline px-3">modération</p></a> <a href="">
 					<p className="d-inline px-3">mention légale</p></a> <a href="">
